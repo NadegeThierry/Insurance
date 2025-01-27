@@ -18,17 +18,17 @@ Pour atteindre ces objectifs, j’ai mené plusieurs étapes :
    o	Création de visualisations interactives pour explorer les tendances et comportements des clients.  
    o	Mise en place de filtres dynamiques permettant aux utilisateurs d'explorer les données par sexe, région, statut de fumeur, etc.  
    o	Utilisation de Power BI pour examiner les relations entre variables :  
-      •	Les fumeurs ont des dépenses de santé plus importantes que les non-fumeurs.  
-      •	Les dépenses de santé augmentent avec l’âge.  
-      •	Un BMI élevé est associé à des coûts médicaux plus importants.  
-      •	Les fumeurs obèses ont des coûts médicaux très importants  
-      •	Les 3 assurés les plus obèses sont de très jeunes hommes  
+         •	Les fumeurs ont des dépenses de santé plus importantes que les non-fumeurs.  
+         •	Les dépenses de santé augmentent avec l’âge.  
+         •	Un BMI élevé est associé à des coûts médicaux plus importants.  
+         •	Les fumeurs obèses ont des coûts médicaux très importants  
+         •	Les 3 assurés les plus obèses sont de très jeunes hommes  
    o	Mise en avant des insights dans des pages thématiques
 
-Grâce à mon travail :
+Grâce à mon travail :  
 •	Des insights clés ont été identifiés, mettant en évidence des facteurs influençant les dépenses de santé tels que le statut de fumeur, le BMI et l'âge.  
 •	Un tableau de bord interactif a été créé pour permettre à différents utilisateurs (ex. : analystes ou décideurs) de visualiser et de manipuler facilement les données.  
 •	Ce projet démontre ma capacité à :  
-   o	Manipuler les données avec rigueur.  
-   o	Créer des visualisations claires et exploitables avec Power BI.  
-   o	Identifier des relations complexes dans les données pour formuler des recommandations stratégiques.  
+      o	Manipuler les données avec rigueur.  
+      o	Créer des visualisations claires et exploitables avec Power BI.  
+      o	Identifier des relations complexes dans les données pour formuler des recommandations stratégiques.  
