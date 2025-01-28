@@ -28,7 +28,3 @@ Pour atteindre ces objectifs, j’ai mené plusieurs étapes :
 Grâce à mon travail :  
 •	Des insights clés ont été identifiés, mettant en évidence des facteurs influençant les dépenses de santé tels que le statut de fumeur, le BMI et l'âge.  
 •	Un tableau de bord interactif a été créé pour permettre à différents utilisateurs (ex. : analystes ou décideurs) de visualiser et de manipuler facilement les données.  
-•	Ce projet démontre ma capacité à :  
-      o	Manipuler les données avec rigueur.  
-      o	Créer des visualisations claires et exploitables avec Power BI.  
-      o	Identifier des relations complexes dans les données pour formuler des recommandations stratégiques.  
