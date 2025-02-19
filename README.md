@@ -7,6 +7,7 @@ Tâches :
 ●	Nettoyer et préparer les données pour les rendre utilisables dans Power BI.  
 ●	Créer des visualisations interactives permettant d’identifier les facteurs clés liés aux dépenses de santé.  
 ●	Communiquer des insights stratégiques à travers un tableau de bord.  
+  
 Actions :  
 1.	Nettoyage et préparation des données :  
 ✔	Découvrir les différentes données présentes dans le fichier avec notamment la description de chacune de ces colonnes.  
